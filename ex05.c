@@ -9,8 +9,12 @@ int main()
     
     printf("a é maggiorenne\n");
 }
-else
+else if
 {
     printf("a é minorenne\n");
+}
+else
+{
+    printf("a ha 18 anni\n")
 }
 }
