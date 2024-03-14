@@ -4,25 +4,25 @@ double somma(double a, double b)
 {
     double somma;
     somma=a+b;
-    return risultato s;
+    return r1;
 }
 double differenza(double a, double b)
 {
     double differenza;
     differenza=a-b;
-    return risultato d;
+    return r2;
 }
 double divisione(double a, double b )
 {
     double divisione;
     divisione= a/b;
-    return drisultato div;
+    return r3;
 } 
 double moltipllicazione(double a, double b)
 {
     double moltiplicazione;
     moltiplicazione= a*b;
-    return risultato m;
+    return r4;
 }
 double main()
 {
